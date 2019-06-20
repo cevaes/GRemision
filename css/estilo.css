@@ -1,0 +1,15 @@
+body
+{
+	background: green;
+}
+div
+{
+	/*background: red;
+	/*border: solid 1px;*/
+	width: 595px;
+	height: 842px;
+}
+canvas
+{
+	background: blue;
+}
